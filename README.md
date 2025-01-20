@@ -15,8 +15,8 @@ The repository includes work on various topics, such as:
 - **Data Science**: 📊 Data exploration, cleaning, feature engineering, and visualization.
 - **Machine Learning**: 🤖 Supervised and unsupervised learning, classification, regression, clustering, and evaluation metrics.
 - **Deep Learning**: 🧠 Neural networks, CNNs, RNNs, GANs, and other deep learning techniques.
-- **AI**: 🦾 Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, and AI frameworks.
-- **Data Engineering**: ⚙️ Data pipelines, ETL processes, cloud services, and databases.
+- **AI**: 🤖 Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, and AI frameworks.
+- **Data Engineering**: 🌐 Data pipelines, ETL processes, cloud services, and databases.
 
 ## 🔥 Notable Libraries and Tools Used
 
